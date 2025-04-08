@@ -1,0 +1,11 @@
+flower_flower_leafs::after{
+  content: "";
+  position: absolute;
+  left: 0;
+  Top: 0;
+  transform: translate(-50%, -100%);
+  width: 8vmin;
+  height: 8vmin;
+  background-colour: #6bf0ff;
+  filter: blue(10vmin);
+  }
